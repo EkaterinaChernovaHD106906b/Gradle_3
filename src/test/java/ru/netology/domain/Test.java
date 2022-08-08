@@ -11,11 +11,6 @@ import java.time.Duration;
 import static com.codeborne.selenide.Selenide.*;
 
 public class Test {
-    private WebDriver driver;
-    @BeforeAll
-    public static void setUpAll() {
-        WebDriverManager.chromedriver().setup();
-    }
 
 
     @org.junit.jupiter.api.Test
