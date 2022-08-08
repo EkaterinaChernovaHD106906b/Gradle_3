@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/mdgoqye3p6iycnl4?svg=true)](https://ci.appveyor.com/project/EkaterinaChernovaHD106906b/gradle-3)
