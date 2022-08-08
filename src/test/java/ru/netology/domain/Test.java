@@ -20,12 +20,6 @@ public class Test {
         WebDriverManager.chromedriver().setup();
     }
 
-    @BeforeEach
-    public void setUp() {
-        driver = new ChromeDriver();
-
-
-    }
     @org.junit.jupiter.api.Test
     public void myTest() {
         Configuration.holdBrowserOpen = true;
